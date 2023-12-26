@@ -1,0 +1,26 @@
+[package]
+name = "herfavesenpai/senpai-fw"
+description = "Max Mara"
+version = "0.0.1"
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
+
+[dependencies]
+Knit = "sleitnick/knit@1.5.1"
+Component = "sleitnick/component@*"
+Signal = "sleitnick/signal@1.5.0"
+Comm = "sleitnick/comm@0.3.1"
+TableUtil = "sleitnick/table-util@1.2.0"
+Timer = "sleitnick/timer@1.1.2"
+Promise = "evaera/promise@4.0.0"
+Janitor = "howmanysmall/janitor@1.15.4"
+WaitFor = "sleitnick/wait-for@0.2.1"
+Component = "sleitnick/component@*"
+Maid = "howmanysmall/janitor@*"
+Fusion = "elttob/fusion@0.2.0"
+Octrees = "sleitnick/octo-tree@0.3.1"
+BridgeNet2 = "ffrostflame/bridgenet2@0.2.2"
+Trove = "sleitnick/trove@*"
+Streamable = "sleitnick/streamable@1.2.4"
+GameAnalytics = "gameanalytics/gameanalytics-sdk@2.2.3"
+
